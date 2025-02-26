@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👶🏻 안녕하세요 ChuByte 입니다 !  
+👋 Welcome to my GitHub profile!  
 
-<!--
-**ChuByte/ChuByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills  
+- 🐍 **Python**, 📊 **SQL**, 📈 **R Studio**  
 
-Here are some ideas to get you started:
+## 🎓 Education  
+- 🎓**Economics & Information Statistics** (경제학 & 정보통계학)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certifications  
+- 🏅 **SQLD (SQL Developer Certification)**  
+- 📊 **ADsP (Associate Data Scientist Professional)**  
+- 📝 **G-TELP Level 2 (79점)**  
+
+

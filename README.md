@@ -2,10 +2,10 @@
   <img src="https://github.com/ChuByte.png" width="120" alt="ChuByte Profile Picture">
 </p>
 
-<h1 align="center">👋 Hello, I'm ChuByte! 🚀</h1>
+<h1 align="center">👋 Hello, I'm ChuByte! </h1>
 
 <p align="center">
-  Welcome to my GitHub profile!  
+  Welcome to my GitHub profile! 🚀
 </p>
 
 ---

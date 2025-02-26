@@ -2,7 +2,7 @@
   <img src="https://github.com/ChuByte.png" width="120" alt="ChuByte Profile Picture">
 </p>
 
-<h1 align="center">👋 Hello, I'm ChuByte! </h1>
+<h1 align="center">👋  Hello, I'm ChuByte! </h1>
 
 <p align="center">
   Welcome to my GitHub profile! 🚀
@@ -11,7 +11,7 @@
 ---
 
 ## 🛠 Skills  
-- 🐍 Python, 📊 SQL, 📈 R Studio  
+- 👩🏻‍💻 Python, 📊 SQL, 📈 R Studio  
 
 ## 🎓 Education  
 - 🎓 Economics & Information Statistics (경제학 & 정보통계학)  
